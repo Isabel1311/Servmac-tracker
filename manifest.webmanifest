@@ -1,0 +1,14 @@
+{
+  "name": "SERVMAC Tracker",
+  "short_name": "SERVMAC",
+  "description": "Gestión de portafolio de proyectos de construcción",
+  "start_url": "./SERVMAC Tracker.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0B2545",
+  "theme_color": "#1E40AF",
+  "icons": [
+    { "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='36' fill='%231E40AF'/><text x='96' y='124' font-family='sans-serif' font-size='80' font-weight='800' text-anchor='middle' fill='%23F26B1F'>SM</text></svg>", "sizes": "192x192", "type": "image/svg+xml" },
+    { "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='96' fill='%231E40AF'/><text x='256' y='330' font-family='sans-serif' font-size='220' font-weight='800' text-anchor='middle' fill='%23F26B1F'>SM</text></svg>", "sizes": "512x512", "type": "image/svg+xml" }
+  ]
+}
